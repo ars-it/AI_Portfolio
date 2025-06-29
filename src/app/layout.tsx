@@ -37,13 +37,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     title: "Aravind Portfolio",
-    description: "AI portfolio with an AI-powered Memoji that answers questions about me",
+    description: "AI-powered portfolio with AI chatbot that can answer questions about my background, projects, and skills.",
     siteName: "Aravind Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Aravind Portfolio",
-    description: "AI portfolio with an AI-powered Memoji that answers questions about me",
+    description: "AI-powered portfolio with AI chatbot that can answer questions about my background, projects, and skills.",
     creator: "@0.5wind",
   },
   icons: {
