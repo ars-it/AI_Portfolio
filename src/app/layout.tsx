@@ -36,15 +36,15 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: "Aravind Portfolio",
-    description: "AI-powered portfolio with AI chatbot that can answer questions about my background, projects, and skills.",
-    siteName: "Aravind Portfolio",
+    title: "Aravind's Portfolio",
+    description: "AI powered interactive portfolio that answers questions about me, my skills, and my experience",
+    siteName: "Aravind's Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Aravind Portfolio",
-    description: "AI-powered portfolio with AI chatbot that can answer questions about my background, projects, and skills.",
-    creator: "@0.5wind",
+    title: "Aravind's Portfolio",
+    description: "AI powered interactive portfolio that answers questions about me, my skills, and my experience",
+    creator: "@aravindddddd",
   },
   icons: {
     icon: [
