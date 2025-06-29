@@ -13,7 +13,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Aravind Portfolio",
+  title: "Aravind's Portfolio",
   description: "AI powered interactive portfolio that answers questions about me, my skills, and my experience",
   keywords: [
     "Aravind", 
